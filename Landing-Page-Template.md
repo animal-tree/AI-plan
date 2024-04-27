@@ -1,3 +1,5 @@
+[[in progress]](https://github.com/animal-tree/Radical-ideas/blob/main/AI-Plan.md#todo-write-up-all-of-this)
+
 <p align="center">
 
 <img width="100%" style="border:1px solid black;"  src="https://i.imgur.com/YWndtJc.jpeg">
@@ -35,7 +37,7 @@ print(f'{AGI.__init__} is a "magic method".')
 <function AGI.__init__ at 0x102f9cf40> is a "magic method".
 ```
 
-While this "magic method" is indistinguishable from a technology sufficiently advanced, we have bothered to program some other stuff.
+While this "magic method" might be "indistinguishable from a technology sufficiently advanced", we have also programmed some other stuff:
 
 Check it out [here](https://github.com/AGI-init/UnifiedML) and [here](https://github.com/Cave-Dwellers-Tree-People/minihydra), and maybe [here](https://github.com/AGI-init/tributaries) and [here](https://github.com/AGI-init/UnifiedML-legacy), and maybe [here](https://github.com/AGI-init/XRDs) and [here](https://github.com/slerman12/Detective-Sam), ***with more to come***.
 
@@ -110,3 +112,73 @@ I am an environmentalist, tree-hugger, and probably crazy shamanic priest. Pleas
 #
 
 <img width="7%" alt="red-heart-outline" src="https://github.com/AGI-init/AGI-init/assets/92597756/57a8b033-b630-45a0-9053-8864d9d09db1">
+
+---
+
+# TODO: WRITE UP ALL OF THIS:
+
+### Thrust 1: Physics, philosophy, and a theology framework
+
+Physics paragraph.
+
+Link XRDs as initial example.
+
+### Thrust 2: Cybernetics phase
+
+\<centered diagram\>
+
+The cybernetics phase is about building the software environmental interaction cycle and API infrastructure.
+
+For example, multi-task:
+
+\<centered diagram\>
+
+And the robotics software interaction:
+
+\<centered diagram\>
+
+### Thrust 3: Egalitarian robotics
+
+\<8-hour work week\>
+
+<anti-militarism/anti-surveillance>
+
+<internet / wave modulation>
+
+\<fishing\>
+
+Municipalities (e.g. control of the blimps/drones) and UBI vs. just UBI. On why de-centralized control should belong to municipalities while communication channels remain federated, instead of food and energy being centralized with just a centralized source of UBI, prevention of corporate power consolidation. UBI as not the sole Panacea for automation.
+
+\<Philosophical safety principles to prevent hypothetical AGI, namely 1-time-step supervised learning to evaluate capacity of model before scaling, and recognizing that every threat of AGI is already dominant in society through humanity’s own systems, and those areas need to be reformed now, not scaling AI-level intelligence to operate or optimize them.>
+
+\<My stance on development of bots for sex, and existing and potential alternatives\>
+
+\<agriculture, distribution (including of housing equipment), and solar energy\>
+
+### Thrust 4: Archetypal psychology concept
+
+Archetypal Psychology, e.g., mixture of experts hierarchical processes in human learning and consciousness composition and NLP parallel-linguistic-message-passing.
+
+### Thrust 5: Neural-Bionics phase
+
+\<centered diagram\>
+
+The bionics phase is about filling in the rest of the internal agent’s functions, from self-supervised learning to temporal.
+
+For example, multi-modal:
+
+\<centered diagram\>
+
+And biologically inspired architecture components:
+
+\<video\>
+
+Concept:
+
+\<centered diagram\>
+
+BioNet:
+
+\<centered diagram\>
+
+I support the building and development of neuromorphic hardware. 
