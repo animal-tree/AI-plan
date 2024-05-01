@@ -1,4 +1,4 @@
-[[in progress]](https://github.com/animal-tree/Radical-ideas/blob/main/AI-Plan.md#todo-write-up-all-of-this)
+[[in progress]](#todo-write-up-all-of-this)
 
 <p align="center">
 
