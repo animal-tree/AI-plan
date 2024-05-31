@@ -139,7 +139,7 @@ And the robotics software interaction:
 
 ### Thrust 3: Egalitarian robotics
 
-\<8-hour work week. The 40 hour work week was established in 1940. We should bring it down to at least 32 by 2032.\>
+\<8-hour work week. The 40 hour work week was established [in 1940](https://youtu.be/OCbDhYgccyE?si=uo3S6O3obCwnJA9b). We should bring it down to at least 32 by 2032.\>
 
 <anti-militarism/anti-surveillance>
 
