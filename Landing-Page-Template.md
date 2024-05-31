@@ -154,7 +154,7 @@ Municipalities (e.g. control of the blimps/drones) and UBI vs. just UBI. On why 
 \<Philosophical safety principles to prevent hypothetical AGI, namely 1-time-step supervised learning to evaluate capacity of model before scaling, and recognizing that every threat of AGI is already dominant in society through humanity’s own systems, and those areas need to be reformed now, not scaling AI-level intelligence to operate or optimize them.>
 
 \<My stance on development of bots for sex, and existing and potential alternatives\>
-- Intimacy healing (medicine), legalized sex work (fine art), connection to existing simulation technologies, physical, virtual, and chemical; anti-prohibitionism 
+- Intimacy healing (medicine), legalized sex work (fine art),  anti-prohibitionism , and elaborating on the parallels of all of these philosophical questions with that of existing simulation technologies: physical, virtual, and chemical
 
 \<agriculture, distribution (including of housing equipment), and solar energy\>
 
