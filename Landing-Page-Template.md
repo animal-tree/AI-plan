@@ -184,4 +184,4 @@ BioNet:
 \<centered diagram\>
 
 I support the building and development of neuromorphic hardware. 
-- (This means learning, intelligence, wisdom, possibly-consciousness simulating technologies, e.g., compute for neural networks inspired by the brain, nature, or biology, bionics; distinct from anotomical simulation)
+- (Brain-inspired compute for neural networks)
