@@ -149,6 +149,7 @@ And the robotics software interaction:
 
 Municipalities (e.g. control of the blimps/drones) and UBI vs. just UBI. On why de-centralized control should belong to municipalities while communication channels remain federated, instead of food and energy being centralized with just a centralized source of UBI, prevention of corporate power consolidation. UBI as not the sole Panacea for automation.
 - Note: Emphasize that UBI in addition to municipal ownership of automation technologies, not one minus other.
+ - By municipalities, I mean local, e.g. communities, governments. As opposed to centralized, e.g. Department of Defense.
 - Because in a world where both automation and basic income come from the same source, there is no way to defeat that system if it ever spirals out of democratic control.
 
 \<Philosophical safety principles to prevent hypothetical AGI, namely 1-time-step supervised learning to evaluate capacity of model before scaling, and recognizing that every threat of AGI is already dominant in society through humanity’s own systems, and those areas need to be reformed now, not scaling AI-level intelligence to operate or optimize them.>
